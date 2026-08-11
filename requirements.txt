@@ -3,7 +3,7 @@ ultralytics
 torch
 torchvision
 opencv-python-headless
-pillow
+Pillow
 numpy
 pandas
 folium
