@@ -1,0 +1,11 @@
+.streamlit/secrets.toml
+
+damage_report.csv
+damage_locations.json
+
+saved_images/
+
+__pycache__/
+*.pyc
+
+.env
